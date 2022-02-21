@@ -1,2 +1,2 @@
 # Site-de-Eventos
-Site de eventos utilizando a linguagem PHP com framework Laravel.
+Sistema de Eventos em PHP com Laravel e MySQL
