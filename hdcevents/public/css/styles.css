@@ -10,7 +10,7 @@ body {
 }
 
 header {
-  background-color: #FFF;
+  background-color: rgb(10, 10, 10);
   border-bottom: 1px solid #CCC;
 }
 
@@ -23,13 +23,13 @@ header {
 }
 
 .btn-primary {
-  background-color: #F2A340;
-  border: 2px solid #C28008;
+  background-color: #ffe600;
+  border: 2px solid #d3c014;
 }
 
 .btn-primary:hover {
-  background-color: #C28008;
-  border-color: #C28008;
+  background-color: #071e9e;
+  border-color: #0721b6;
 }
 
 .msg {
@@ -54,36 +54,36 @@ header {
 /* navbar */
 
 #navbar img {
-  width: 40px;
+  width: 50px;
 }
 
 #navbar {
   justify-content: space-between;
-  background-color: #FFF;
-  padding: 5px 0;
+  background-color: rgb(10, 10, 10);
+  padding: 0px 0;
 }
 
 #navbar a {
   font-size: 14px;
-  color: #757575;
+  color: #a1a0a0;
 }
 
 #navbar a:hover {
-  color: #F2A340;
+  color: #ffe600;
 }
 
 /* Search Container */
 #search-container {
-  background-image: url("../img/banner.jpg");
+  background-image: url("../img/eventos-rh-2020.jpg");
   background-size: cover;
   background-position: center;
-  height: 400px;
+  height: 600px;
   padding: 50px;
   text-align: center;
 }
 
 #search-container h1 {
-  color: #F2A340;
+  color: #ffe600;
   margin-bottom: 30px;
   font-weight: 900;
 }
@@ -127,7 +127,7 @@ header {
 
 .card .card-date {
   font-size: 12px;
-  color: #CCC;
+  color: #757575;
 }
 
 .card .card-title {
@@ -185,8 +185,8 @@ header {
 }
 
 #info-container ion-icon {
-  font-size: 20px;
-  color: #F2A340;
+  font-size: 22px;
+  color: #ffe600;
   margin-right: 5px;
 }
 
@@ -231,7 +231,7 @@ header {
 /* footer */
 footer {
   text-align: center;
-  background-color: #353E48;
+  background-color: rgb(10, 10, 10);
   color: #FFF;
   padding: 30px;
   position: absolute;
